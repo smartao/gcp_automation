@@ -1,0 +1,8 @@
+# Preview
+# gcloud deployment-manager deployments create dminfra --config=config.yaml --preview
+
+# Create Deployment
+# gcloud deployment-manager deployments update dminfra
+
+# Delete Deployment
+# gcloud deployment-manager deployments delete dminfra
